@@ -25,4 +25,4 @@ Core Capabilities
 
 
 TAGS
-streamlabs, streamlabs-ultra, streamlabs-2026, twitch-streaming, youtube-live, multistream, pro-software-2026, trial-software                   
+streamlabs, streamlabs-ultra, streamlabs-2026, twitch-streaming, youtube-live, multistream, pro-software-2026, trial-software                    
